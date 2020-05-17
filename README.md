@@ -41,4 +41,4 @@ Note:	All 74LSxx series logic ICs can be substituted with any family with "LS" o
 
 ## License
 
-This project is licensed under the Creative Commons - Attribution - ShareAlike 3.0 License
+This project is licensed under the 200-CES13101SD	GPL 3.0 License
